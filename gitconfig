@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = srig87@gmail.com
+	name = Sridhar Ganesh Kumar
